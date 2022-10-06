@@ -685,7 +685,7 @@ h6 {
 }
 
 .works__column_main {
-  display: block;
+  display: block !important;
 }
 
 .works__column_main .works__item {
